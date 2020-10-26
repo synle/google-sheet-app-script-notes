@@ -25,3 +25,9 @@ eval(
   ).getContentText()
 );
 ```
+
+### To do logging
+Then view logs at `View > Logs`
+```
+Logger.log("Stock price: ", stockPrice);
+```
